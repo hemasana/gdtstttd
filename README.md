@@ -54,7 +54,7 @@ Forward Resistance RF = ΔVF/ ΔIF (Ω)
 Reverse Resistance RR = ΔVR/ ΔIR (Ω)
 
 # TABULATION :
-alan
+alan rohith
 # MODEL CALCULATION :
 
 # MODEL GRAPH :
